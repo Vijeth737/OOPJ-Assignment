@@ -1,0 +1,100 @@
+1.Laptop,10,50000,Electronics
+2.Phone,25,30000,Electronics
+3.Table,15,2000,Furniture
+4.Chair,50,1500,Furniture
+5.Shampoo,40,250,PersonalCare
+6.Notebook,100,50,Stationery
+7.Monitor,30,10000,Electronics
+8.Keyboard,200,1500,Electronics
+9.Mouse,150,500,Electronics
+10.Blender,25,1200,HomeAppliance
+11.Microwave,10,8000,HomeAppliance
+12.Refrigerator,8,20000,HomeAppliance
+13.Washing Machine,6,15000,HomeAppliance
+14.Fan,40,800,HomeAppliance
+15.Air Conditioner,5,25000,HomeAppliance
+16.Heater,30,2000,HomeAppliance
+17.Toaster,50,1500,HomeAppliance
+18.Juicer,60,2200,HomeAppliance
+19.Iron,45,1200,HomeAppliance
+20.Camera,20,35000,Electronics
+21.Speaker,30,5000,Electronics
+22.Headphones,40,2000,Electronics
+23.Smartwatch,25,8000,Electronics
+24.Printer,10,4000,Electronics
+25.Tablet,15,15000,Electronics
+26.Smart TV,5,30000,Electronics
+27.Projector,12,15000,Electronics
+28.Charger,100,800,Electronics
+29.Battery,150,200,Electronics
+30.Flashlight,50,500,Tools
+31.Drill,20,3500,Tools
+32.Saw,15,2000,Tools
+33.Hammer,40,500,Tools
+34.Screwdriver,60,200,Tools
+35.Wrench,30,800,Tools
+36.Plier,50,150,Tools
+37.Tape Measure,100,100,Tools
+38.Level,80,300,Tools
+39.Shovel,20,700,Tools
+40.Spade,25,600,Tools
+41.Gloves,60,100,PersonalCare
+42.Shaving Kit,30,800,PersonalCare
+43.Toothbrush,100,50,PersonalCare
+44.Toothpaste,150,30,PersonalCare
+45.Body Lotion,40,500,PersonalCare
+46.Hand Cream,50,400,PersonalCare
+47.Shower Gel,30,350,PersonalCare
+48.Deodorant,80,200,PersonalCare
+49.Face Wash,60,300,PersonalCare
+50.Perfume,20,2000,PersonalCare
+51.Notebook,300,80,Stationery
+52.Pen,500,10,Stationery
+53.Diary,150,100,Stationery
+54.Stapler,80,250,Stationery
+55.Glue,120,50,Stationery
+56.Paper,200,20,Stationery
+57.Highlighter,60,30,Stationery
+58.File Folder,100,150,Stationery
+59.Calculator,50,500,Stationery
+60.Scissors,100,100,Stationery
+61.Scarf,70,800,Clothing
+62.Shirt,100,1500,Clothing
+63.Jacket,50,2500,Clothing
+64.Jeans,200,1200,Clothing
+65.Shoes,150,2000,Clothing
+66.Hat,50,600,Clothing
+67.Socks,300,100,Clothing
+68.Coat,40,3500,Clothing
+69.Skirt,80,1200,Clothing
+70.Scarf,60,800,Clothing
+71.Sweater,120,1500,Clothing
+72.Trainers,130,1800,Clothing
+73.Dress,50,2500,Clothing
+74.Blouse,90,1400,Clothing
+75.Chinos,75,1000,Clothing
+76.Jumpsuit,60,2200,Clothing
+77.Trousers,100,1200,Clothing
+78.Swimsuit,25,1500,Clothing
+79.Boots,40,2000,Clothing
+80.Gloves,200,300,Clothing
+81.Carpet,30,5000,Furniture
+82.Couch,25,8000,Furniture
+83.Bookshelf,15,2000,Furniture
+84.Desk,40,2500,Furniture
+85.Chair,100,1000,Furniture
+86.Table,120,3000,Furniture
+87.Armchair,60,4500,Furniture
+88.Cabinet,50,3500,Furniture
+89.Wardrobe,30,7000,Furniture
+90.Mirror,90,1500,Furniture
+91.Wall Art,200,800,Furniture
+92.Table Lamp,75,2000,Furniture
+93.Kitchen Set,50,4000,Furniture
+94.Home Decor,100,1500,Furniture
+95.Storage Box,150,400,Furniture
+96.Plant Pot,120,200,Furniture
+97.Kitchen Stool,30,800,Furniture
+98.Home Pillow,100,500,Furniture
+99.Recliner,20,6000,Furniture
+100.Bean Bag,50,2500,Furniture
